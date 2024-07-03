@@ -1,0 +1,12 @@
+/* Custom styles */
+body {
+    padding-top: 56px; /* Adjust for the height of the fixed navbar */
+}
+
+.card-deck .card {
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
